@@ -6,7 +6,7 @@
  that makes use of the hardware and the testing of the software logic was written by 
  myself and my group members. 
  
- Also included are diagrams of the application (eg. structural and state diagrams)
+ Also included are diagrams of the application (eg. structural and state diagrams) via diagrams.pdf
  # Test Video
  To see how I tested and created the tests for the system, watch this video! <br />
  https://youtu.be/OFyIjCUARmo
